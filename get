@@ -1,0 +1,1 @@
+$_GET merupakan variabel global yang digunakan untuk menangkap atau menerima nilai (value) yang dikirimkan oleh form yang menggunakan method GET, jika menggunakan method GET akan menampilkan data/nilai pada URL, kemudian akan ditampung oleh file action (file tujuan).
